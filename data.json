@@ -1,0 +1,100 @@
+{
+    "Books": {
+        "1": {
+            "Name": "Window",
+            "Autor": "Tom Bold",
+            "Rented": true
+        },
+        "2": {
+            "Name": "The Door",
+            "Autor": "John Parinson",
+            "Rented": false
+        },
+        "3": {
+            "Name": "My Name Is..",
+            "Autor": "Nolan",
+            "Rented": false
+        },
+        "4": {
+            "Name": "Fall In Love",
+            "Autor": "Sara Cley",
+            "Rented": false
+        },
+        "5": {
+            "Name": "The Hotel",
+            "Autor": "Team Nicol",
+            "Rented": false
+        },
+        "6": {
+            "Name": "The Hotel",
+            "Autor": "Tread Yong",
+            "Rented": false
+        },
+        "7": {
+            "Name": "Rainy Days",
+            "Autor": "Calin Molion",
+            "Rented": false
+        }
+    },
+    "Users": {
+        "12345": {
+            "Name": "SHERJEEL",
+            "Password": "qwert",
+            "RentedBooks": {},
+            "CreditType": "Special",
+            "BlockedStatus": [],
+            "History": []
+        },
+        "INT00942": {
+            "Name": "SHERJEEL",
+            "Password": "qwert",
+            "RentedBooks": {},
+            "CreditType": "Special",
+            "BlockedStatus": [],
+            "History": []
+        },
+        "INT00943": {
+            "Name": "SHERJEEL AMIN",
+            "Password": "qwerty",
+            "RentedBooks": {},
+            "CreditType": "Normal",
+            "BlockedStatus": [],
+            "History": []
+        },
+        "INT0060": {
+            "Name": "Rupali Priyadarshini",
+            "Password": "Rupali@66",
+            "RentedBooks": {},
+            "CreditType": "Special",
+            "BlockedStatus": [],
+            "History": []
+        },
+        "dsfsdfsd3423": {
+            "Name": "dfsdfsd",
+            "Password": "fdgsd343",
+            "RentedBooks": {},
+            "CreditType": "Special",
+            "BlockedStatus": [],
+            "History": []
+        },
+        "INT00122": {
+            "Name": "SHERJEEL",
+            "Password": "Sharjeel@123",
+            "RentedBooks": {},
+            "CreditType": "Special",
+            "BlockedStatus": [],
+            "History": [
+                [
+                    "7",
+                    "13/2/2023",
+                    "13/2/2023"
+                ],
+                [
+                    "3",
+                    "13/2/2023",
+                    "13/2/2023"
+                ]
+            ]
+        }
+    }
+}
